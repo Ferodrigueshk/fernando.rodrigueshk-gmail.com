@@ -1,0 +1,34 @@
+<select id="Cidade" name="Cidade">
+    <option value="Plano Piloto">Plano Piloto</option>
+    <option value="Gama">Gama</option>
+    <option value="Taguatinga">Taguatinga</option>
+    <option value="Brazlândia">Brazlândia</option>
+    <option value="Planaltina">Planaltina</option>
+    <option value="Paranoá">Paranoá</option>
+    <option value="Núcleo Bandeirante">Núcleo Bandeirante</option>
+    <option value="Ceilândia">Ceilândia</option>
+    <option value="Guará">Guará</option>
+    <option value="Cruzeiro">Cruzeiro</option>
+    <option value="Samambaia">Samambaia</option>
+    <option value="Santa Maria">Santa Maria</option>
+    <option value=" São Sebastião"> São Sebastião</option>
+    <option value="Recanto das Emas">Recanto das Emas</option>
+    <option value="Lago Sul">Lago Sul</option>
+    <option value="Riacho Fundo">Riacho Fundo </option>
+    <option value="Lago Norte">Lago Norte</option>
+    <option value="Candangolândia">Candangolândia</option>
+    <option value="Águas Claras">Águas Claras</option>
+    <option value="Riacho Fundo II">Riacho Fundo II</option>
+    <option value="Sudoeste/Octogonal">Sudoeste/Octogonal</option>
+    <option value="Varjão">Varjão</option>
+    <option value="Park Way">Park Way</option>
+    <option value="SCIA">SCIA</option>
+    <option value="Sobradinho II">Sobradinho II</option>
+    <option value="Jardim Botânico">Jardim Botânico</option>
+    <option value=" Itapoã"> Itapoã</option>
+    <option value="SIA">SIA</option><option>
+    <option value="Vicente Pires">Vicente Pires</option>
+    <option value="Fercal">Fercal</option>
+    <option value="Sol Nascente/Pôr do Sol">Sol Nascente/Pôr do Sol</option>
+    <option value=" Arniqueira"> Arniqueira</option>
+    </select>
